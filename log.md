@@ -3,3 +3,5 @@
 ## [2026-09-06] write | Karpathy llm-wiki 方法笔记
   wiki/meta/karpathy-llm-wiki.md
 
+## [2026-09-06] note | Karpathy llm-wiki（2026-04） 来源：https://gist.github.com/karpathy/442a6bf555914893e
+
