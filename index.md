@@ -5,3 +5,7 @@
 ## 原料 · raw（1 条）
 
 - [AI原生软件时代](raw/2026-09-06-ai原生软件时代.md) `draft` — AI原生软件时代 · 2026-09-06
+
+## 其它 · other（1 条）
+
+- [Karpathy llm-wiki 方法笔记（2026-04 讨论记录）](wiki/meta/karpathy-llm-wiki.md) — 2026-04 对照 Karpathy 的 llm-wiki 方案（gist）审视本团队/本人 wiki（EvolveKB / mywiki）的做法，记录采纳要点、明确放弃项与立场分歧。
