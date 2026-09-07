@@ -10,9 +10,10 @@
 
 - [决策：Karpathy llm-wiki 方法（采纳/放弃/分歧）](wiki/meta/karpathy-llm-wiki-decision.md) — Karpathy 2026-04 提出一套「LLM 驱动 wiki」的方法（gist：https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f），与我们自己的知识库 EvolveKB 直接相关。
 
-## 原料 · raw（5 条）
+## 原料 · raw（6 条）
 
 - [Atrex kernel agent项目 Key points: 1. **What**: An end-to-end agent system for GPU](raw/2026-09-07-atrex-kernel-agent项目-key-points-1-what-an-end-to-end-agent-s.md) `draft` — Atrex kernel agent项目 Key points: 1. · 2026-09-07
+- [Atrex Kernel Agent（AKA）项目分析](raw/2026-09-07-atrex-kernel-agent-aka-项目分析.md) `draft` — 阿里巴巴开源的**GPU kernel 自动优化 Agent 系统**（Apache 2.0，2026-06 首发）：把一个算子（PyTorch 逻辑或已有 kernel）交给它，通过“编码 Agent + GPU profiling + 正确性/性能门禁 + Git 隔离”的编排式工作流，迭代优化成生产级高性能 k… · 2026-09-07
 - [**AKA 在 4090 上完整复现成功！** 全流程跑通并拿到真实优化结果。](raw/2026-09-07-aka-在-4090-上完整复现成功-全流程跑通并拿到真实优化结果.md) `draft` — 只有 T1 过门禁晋升为 v1，其余 4 个失败尝试全部留档 journal——**“机械控制、代码决定验收”** 的设计在真实运行中得到验证。 · 2026-09-07
 - [4090_pi05_g1d_fp16分段耗时 <think>Done. Final report to the user.</think> ✅ 测完了。用 Un](raw/2026-09-07-4090-pi05-g1d-fp16分段耗时-think-done-final-report-to-the-user-t.md) `draft` — 4090_pi05_g1d_fp16分段耗时 <think>Done. · 2026-09-07
 - [Karpathy llm-wiki（2026-04） 来源：https://gist.github.com/karpathy/442a6bf555914893e](raw/2026-09-06-karpathy-llm-wiki-2026-04-来源-https-gist-github-com-karpathy.md) `draft` — Karpathy llm-wiki（2026-04） 来源：https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f 要点：原始层不可变；index.md + log.md；被推翻的结论留下；入库改写先确认。 · 2026-09-06
