@@ -34,3 +34,6 @@
 
 ## [2026-09-07] note | 资料已足够充分（README、文档站结构、架构页、VisualGen 详细文档）。有一个对我们特别重要的发现，先说结论再展开。
 
+## [2026-09-07] write | Atrex Kernel Agent 核心设计与 4090 实测复现
+  wiki/agents/atrex-kernel-agent-design.md
+
