@@ -30,3 +30,5 @@
 
 ## [2026-09-07] note | Atrex Kernel Agent（AKA）项目分析
 
+## [2026-09-07] note | 我已经收集了足够的资料（主 README、tripy、mlir-tensorrt、StableHLO 编译管线、TensorRT dialect 文档）。之前卡
+
