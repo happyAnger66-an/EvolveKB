@@ -26,3 +26,5 @@
 
 ## [2026-09-07] note | Atrex kernel agent项目 Key points: 1. **What**: An end-to-end agent system for GPU
 
+## [2026-09-07] note | **AKA 在 4090 上完整复现成功！** 全流程跑通并拿到真实优化结果。
+
