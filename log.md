@@ -22,3 +22,5 @@
 
 ## [2026-09-07] note | 4090_pi05_g1d_fp16分段耗时
 
+## [2026-09-07] note | 4090_pi05_g1d_fp16分段耗时 <think>Done. Final report to the user.</think> ✅ 测完了。用 Un
+

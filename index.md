@@ -12,6 +12,6 @@
 
 ## 原料 · raw（3 条）
 
-- [4090_pi05_g1d_fp16分段耗时](raw/2026-09-07-4090-pi05-g1d-fp16分段耗时.md) `draft` — 4090_pi05_g1d_fp16分段耗时 · 2026-09-07
+- [4090_pi05_g1d_fp16分段耗时 <think>Done. Final report to the user.</think> ✅ 测完了。用 Un](raw/2026-09-07-4090-pi05-g1d-fp16分段耗时-think-done-final-report-to-the-user-t.md) `draft` — 4090_pi05_g1d_fp16分段耗时 <think>Done. · 2026-09-07
 - [Karpathy llm-wiki（2026-04） 来源：https://gist.github.com/karpathy/442a6bf555914893e](raw/2026-09-06-karpathy-llm-wiki-2026-04-来源-https-gist-github-com-karpathy.md) `draft` — Karpathy llm-wiki（2026-04） 来源：https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f 要点：原始层不可变；index.md + log.md；被推翻的结论留下；入库改写先确认。 · 2026-09-06
 - [AI原生软件时代](raw/2026-09-06-ai原生软件时代.md) `draft` — AI原生软件时代 · 2026-09-06
