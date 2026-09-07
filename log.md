@@ -10,3 +10,6 @@
 
 ## [2026-09-07] note | GPT-6 Astra 使用文档
 
+## [2026-09-07] write | GPT-6 Astra：新特性、迁移参数与提示词调教要点
+  wiki/llm/gpt-6-astra-usage.md
+
