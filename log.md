@@ -32,3 +32,5 @@
 
 ## [2026-09-07] note | 我已经收集了足够的资料（主 README、tripy、mlir-tensorrt、StableHLO 编译管线、TensorRT dialect 文档）。之前卡
 
+## [2026-09-07] note | 资料已足够充分（README、文档站结构、架构页、VisualGen 详细文档）。有一个对我们特别重要的发现，先说结论再展开。
+
