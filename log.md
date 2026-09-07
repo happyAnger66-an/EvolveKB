@@ -24,3 +24,5 @@
 
 ## [2026-09-07] note | 4090_pi05_g1d_fp16分段耗时 <think>Done. Final report to the user.</think> ✅ 测完了。用 Un
 
+## [2026-09-07] note | Atrex kernel agent项目 Key points: 1. **What**: An end-to-end agent system for GPU
+
