@@ -8,3 +8,5 @@
 ## [2026-09-06] write | 决策：Karpathy llm-wiki 方法（采纳/放弃/分歧）
   wiki/meta/karpathy-llm-wiki-decision.md
 
+## [2026-09-07] note | GPT-6 Astra 使用文档
+
