@@ -13,3 +13,6 @@
 ## [2026-09-07] write | GPT-6 Astra：新特性、迁移参数与提示词调教要点
   wiki/llm/gpt-6-astra-usage.md
 
+## [2026-09-07] write | GPT-6 Astra：补充自建 agent 平台设计参考小节
+  wiki/llm/gpt-6-astra-usage.md
+
