@@ -16,3 +16,5 @@
 ## [2026-09-07] write | GPT-6 Astra：补充自建 agent 平台设计参考小节
   wiki/llm/gpt-6-astra-usage.md
 
+## [2026-09-07] note | pi05 G1D fp16 4090分段耗时
+
